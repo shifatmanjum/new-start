@@ -1,0 +1,25 @@
+.background-image {
+    background-image: url(photo-one.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 25%;
+
+}
+
+p {
+    color: white;
+    text-align: center;
+
+}
+
+body {
+    margin: o;
+    padding-left: o;
+}
