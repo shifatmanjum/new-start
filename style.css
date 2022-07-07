@@ -1,12 +1,14 @@
 .background-image {
+    display: flex;
     background-image: url(photo-one.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     height: 100vh;
+    padding-bottom: 10%;
 
 }
 
-h1 {
+.white-color {
     color: white;
     text-align: center;
     padding-top: 25%;
@@ -19,7 +21,14 @@ p {
 
 }
 
-body {
-    margin: o;
-    padding-left: o;
+.button-design {
+    font-weight: bold;
+    text-decoration: none;
+    padding: 40%;
+    font-size: larger;
+    background-image: linear-gradient(blue red);
+
+
+
+
 }
